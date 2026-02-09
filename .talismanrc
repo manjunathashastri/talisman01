@@ -3,3 +3,5 @@ fileignoreconfig:
   checksum: 8a1467f3dc1615e6d7cc621e493b4f22831d5c1a4ed786ef4a2b4c68c48103f5
 - filename: file3
   checksum: a55bb7cb00430e0236947719cd08ac5fa4c45ad2fc634ae447afef80d026b177
+- filename: file2
+  checksum: f3264a7be39070f3b7b8a4ef26cf2ed9015ee89f499aaffdf0c8a387a3b29d66
